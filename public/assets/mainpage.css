@@ -1,0 +1,35 @@
+body{
+    background-color:#34495e;
+    position: relative;
+}
+
+.head{
+    position: relative;
+    top:30%;
+    background-color:#191919;
+    text-align: center;
+    width:50%;
+    left:25%;
+    color:wheat;
+}
+.top{
+    position: relative;
+    top:30%;
+    background-color:#191919;
+    text-align: center;
+    width:50%;
+    left:25%;
+    color:wheat;
+}
+.bottom{
+    position: relative;
+    top:30%;
+    background-color:#191919;
+    text-align: center;
+    width:50%;
+    left:25%;
+    color:wheat;
+}
+ul{
+    list-style-type: none;
+}
