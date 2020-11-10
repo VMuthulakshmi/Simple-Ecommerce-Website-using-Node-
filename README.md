@@ -6,13 +6,13 @@ This is eccommerce website where this was mainly done to learn the node basics a
   
   # ADMIN
   
-  ..* adding of products only by admin
-  ..* deleting of the products by admin
+  * adding of products only by admin
+  * deleting of the products by admin
   
   
   # USERS
   
-  ..* picking of products by the users abd add them to their own cart.
+  * picking of products by the users abd add them to their own cart.
   
   
   
